@@ -1,0 +1,148 @@
+﻿@charset "utf-8";
+/* CSS Document */
+<style type="text/css">
+
+.layout {
+	margin:0px auto;
+	font-size: 0.3em;
+}
+h2 {
+	font-size: 15px;
+	color:#FFF;
+	font-style:inherit;
+	font-family:"宋体";
+}
+h2:link{
+	color:#FFF;
+	text-decoration: none;
+}
+h2:hover{
+	color: #FFF;
+	text-decoration:underline;
+
+}
+h2:visited{
+	color:#FFF;
+	text-decoration: none;
+	}
+body {
+	background-color: #585858;
+	margin-top: 0px;
+}
+.d1{
+	background-color:#000000;
+	position:absolute;
+	top:337px;
+	width:181px;
+	height:30px;
+	right: 168px;
+	filter:Alpha(opacity=80);
+	opacity: 0.8;
+	text-align: left;
+	font-family:"Times New Roman", Times, serif;
+	}
+
+.footer{
+	line-height:5pt;
+	font-family:"楷书";
+	font-size:12px;
+	background-color:#585858;
+  	filter:Alpha(opacity=50);
+	opacity: 0.5;
+	color:#FFF;
+}
+.foote{
+	font-family:Tahoma, Geneva, sans-serif;
+	line-height:80px;
+	font-size:24px;
+	background-color:#585858;
+  	filter:Alpha(opacity=50);
+	opacity: 0.5;
+	color:#FFF;
+}
+.foote img{
+	vertical-align: middle;
+}
+.txt1{
+	font-family:"黑体";
+	font-size:30pt;
+	color:#ff7d23;
+	}
+.txt2{
+	font-family:"黑体";
+	font-size:20pt;
+}
+.txt3 {
+	font-size:medium;
+	color:#000;
+	font-family:"宋体";
+}
+.divcss
+{
+	border: 2px solid #ff7d23;
+	clip: rect(10px,10px,10px,10px);
+	width: 800px;
+	text-align: center;
+}
+.divcss2
+{
+	border: 2px solid #ff7d23;
+	clip: rect(10px,10px,10px,10px);
+	width: 1000px;
+	text-align: center;
+}
+.aptips {
+	font-family: "宋体";
+	color: #F00;
+	font-weight: bold;
+    width: 390px;
+}
+.toplnk {
+	right: 80px;
+	bottom: 10px;
+	position: fixed;
+	z-index: 99;
+	height: 32px;
+	width: 32px;
+        clear:both;
+ }
+
+ .style1{
+font-size: large;
+font-weight: bold;
+font-family: 黑体;
+color: #FFFFFF;
+ }
+ .contents{
+     font-size:0.8em;
+     font-family: arial,宋体,sans-serif; 
+     line-height:1.8em;
+     letter-spacing: 1px;
+ }
+ .bbsdel{
+	font-size:1.6em;
+     font-family: arial,宋体,sans-serif; 
+     line-height:1.8em;
+     letter-spacing: 1px; 
+ }
+ a.foot:link{
+color:#FFF;
+ }
+  a.foot:visited{
+color:#FFF;
+ }
+   a.foot:hover{
+color:#FFF;
+ }
+  a.newl:link{
+color:#000;
+font-size:0.8em;
+ }
+  a.newl:visited{
+color:#000;font-size:0.8em;
+ }
+   a.newl:hover{
+color:#000;font-size:0.8em;
+
+ }
+</style>
