@@ -22,8 +22,6 @@ Build:2014.6.24 23:50
 
 MS-SQL Server 2008 r2
 
-#Without database
-
 Copyright By Sunplace,2014
 
 ![sunplace](http://www.jsunplace.com/copyright_by_sunplace.png)
