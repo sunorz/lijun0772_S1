@@ -12,7 +12,7 @@ my website:[卡库伊2.0](http://www.jsunplace.com).
 
 ##中文
 
-###不带数据库，如有需求请发送邮件联系购买。
+###数据库未包含。
 
 [更新日志](http://www.lijun0772.com/about.html)
 
