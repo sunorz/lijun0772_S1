@@ -16,7 +16,7 @@ my blog:[卡库伊2.0](http://www.jsunplace.com).
 
 [更新日志](ChangeLog.md)
 
-##Info
+## Info
 
 Verison 1.5.13
 
